@@ -3,17 +3,6 @@ import queue
 import time
 import sys
 
-#
-#
-#
-#Assignment 2
-#By
-#Eze Stanley Ekene
-#200383020
-#
-#
-#
-
 #Heuristic class to perform all the heuristic calculations
 #rowPosition finds the row position of each item in the list
 #columnPosition get the column position of each item in the list
