@@ -1,6 +1,4 @@
-N-queen-puzzles with Python
-
-AI algorithm to solve n-queen puzzles using Arc constraint with (Standard Backtracking, Forward Checking and Full Lookahead).
+N-queen-puzzles with Python3
 
 How this program works
 
